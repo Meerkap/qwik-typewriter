@@ -1,6 +1,7 @@
-# qwik-typewriter
+# typewriter-qwik
 
 Typewriter effect for Qwik applications
+
 
 # Install
 
@@ -8,12 +9,12 @@ Typewriter effect for Qwik applications
 
 # Usage
 
-> With Snnipet
+### With Snnipet (still need import)
  ```js
  qtypewriter
  ```
 
-> Or
+### Manual
 
 ```JS
 import { Typewriter } from "qwik-typewriter";
@@ -37,7 +38,6 @@ export default component$(() => {
 | css      | string | Optional | css classname to be set for the component | ex: `typewritercss`             | .typewritercss {font-size:2rem;} |
 | writeT   | number | Optional | Character typing speed in milliseconds    | 150                             |                                  |
 | unwriteT | number | Optional | Character deleting speed in milliseconds  | 50                              |                                  |
-
 
 # Contribute
 
