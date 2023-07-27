@@ -1,14 +1,16 @@
 {
   "name": "typewriter-qwik",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Typewriter implementation for Qwik",
   "main": "type-writer.tsx",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "qwik typewriter"
   ],
   "author": "Meerkap <contact@meerkap.com> (https://meerkap.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "directory": "qwik-typewriter",
+    "type": "git",
+    "url": "https://github.com/Meerkap/qwik-typewriter"
+  }
 }

@@ -1,0 +1,12 @@
+{
+  "Typewriter Qwik Snnipet": {
+    "scope": "javascriptreact,typescriptreact",
+    "prefix": "qtypewriter",
+    "description": "Typewriter Snnipet",
+    "body": [
+      "<p>",
+      "  ${2:Hello World! I´m a} <Typewriter {/* Props */} />",
+      "</p>"
+    ]
+  }
+}

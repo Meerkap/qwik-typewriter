@@ -8,6 +8,13 @@ Typewriter effect for Qwik applications
 
 # Usage
 
+> With Snnipet
+ ```js
+ qtypewriter
+ ```
+
+> Or
+
 ```JS
 import { Typewriter } from "qwik-typewriter";
 
@@ -34,4 +41,4 @@ export default component$(() => {
 
 # Contribute
 
-All contributions are wellcoming:  [Github Repository](https://github.com/Meerkap/qwik-typewriter) 
+All contributions or ⭐ are wellcoming:  [Github Repository](https://github.com/Meerkap/qwik-typewriter) 
