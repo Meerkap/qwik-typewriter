@@ -34,4 +34,4 @@ export default component$(() => {
 
 # Contribute
 
-Contributions will soon be possible. Stay tuned!.
+All contributions are wellcoming:  [Github Repository](https://github.com/Meerkap/qwik-typewriter) 
