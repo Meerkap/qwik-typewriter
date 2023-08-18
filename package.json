@@ -1,6 +1,6 @@
 {
   "name": "typewriter-qwik",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A Typewriter implementation for Qwik",
   "main": "type-writer.tsx",
   "keywords": [
